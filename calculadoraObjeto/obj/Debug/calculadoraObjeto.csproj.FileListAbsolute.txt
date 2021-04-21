@@ -1,0 +1,7 @@
+C:\Users\pedro\source\repos\calculadoraObjeto.Cs\calculadoraObjeto\bin\Debug\calculadoraObjeto.exe.config
+C:\Users\pedro\source\repos\calculadoraObjeto.Cs\calculadoraObjeto\bin\Debug\calculadoraObjeto.exe
+C:\Users\pedro\source\repos\calculadoraObjeto.Cs\calculadoraObjeto\bin\Debug\calculadoraObjeto.pdb
+C:\Users\pedro\source\repos\calculadoraObjeto.Cs\calculadoraObjeto\obj\Debug\calculadoraObjeto.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\calculadoraObjeto.Cs\calculadoraObjeto\obj\Debug\calculadoraObjeto.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\calculadoraObjeto.Cs\calculadoraObjeto\obj\Debug\calculadoraObjeto.exe
+C:\Users\pedro\source\repos\calculadoraObjeto.Cs\calculadoraObjeto\obj\Debug\calculadoraObjeto.pdb
